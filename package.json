@@ -1,0 +1,41 @@
+{
+  "name": "mi-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --no-deprecation app.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.480.0",
+    "axios": "^0.21.1",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "brew": "0.0.8",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.10",
+    "mongoose-unique-validator": "^2.0.3",
+    "morgan": "^1.10.0",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.6",
+    "nodemon": "^2.0.3",
+    "serve-index": "^1.9.1",
+    "sweetalert2": "^9.8.2",
+    "underscore": "^1.9.2",
+    "uniqid": "^5.2.0",
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {
+    "@types/mysql": "^2.15.9",
+    "dotenv": "^8.2.0",
+    "eslint-config-node": "^4.0.0",
+    "git-commit-msg-linter": "^3.0.0",
+    "jest": "^26.6.3"
+  }
+}

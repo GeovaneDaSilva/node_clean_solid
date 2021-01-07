@@ -1,0 +1,7 @@
+Posibles problemas:
+
+Unique ID
+interstate_pr
+admin_2020
+urlDB = 'mongodb+srv://interstate_pr:admin_2020@cluster0.oofi6.mongodb.net/interstate_PR?retryWrites=true&w=majority'
+process.env.SEED = process.env.SEED || 'key-desarollo-secrets-yes'

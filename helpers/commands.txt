@@ -1,0 +1,6 @@
+==== BOOKS ====
+Ctrl Alt K  -- Checked comment reviwer
+
+
+Subir a HEROKU 
+git push heroku main   => ese main puedes ser master, todo va a depender del state
